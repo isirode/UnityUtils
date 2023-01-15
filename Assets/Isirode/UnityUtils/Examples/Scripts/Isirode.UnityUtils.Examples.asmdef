@@ -1,0 +1,16 @@
+{
+    "name": "Isirode.UnityUtils.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8f179dc89ad05b44b85f2d585def9d52"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
